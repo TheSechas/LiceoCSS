@@ -26,3 +26,20 @@ nav ul li {
 footer {
     text-align: right;
 }
+
+p {
+    width: 1330px;
+    text-align: justify;
+}
+
+img {
+    padding-left: 590px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
