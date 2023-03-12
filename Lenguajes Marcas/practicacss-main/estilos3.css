@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(202, 207, 210);
+}
+
+h1 {
+    color: blue;
+}
+
+header {
+    background-color: rgb(rgb(134, 231, 42));
+}
+
+nav {
+    float: right;
+    margin-right: 10%;
+    margin-top: -75px;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: rgb(128, 243, 247);
+    width: 150px;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+}
