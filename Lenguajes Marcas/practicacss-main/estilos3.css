@@ -26,3 +26,15 @@ nav ul li {
 footer {
     text-align: right;
 }
+
+div {
+    text-align: center;
+}
+
+iframe {
+    margin-left: 110px;
+}
+
+h2 {
+    margin-left: 60px;
+}
