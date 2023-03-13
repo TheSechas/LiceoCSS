@@ -28,11 +28,12 @@ footer {
 }
 
 div {
-    text-align: center;
+    margin-left: 1000px;
 }
 
 iframe {
-    margin-left: 110px;
+    margin-top: -200px;
+    margin-left: 50px;
 }
 
 h2 {
