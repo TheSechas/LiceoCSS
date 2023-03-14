@@ -3,7 +3,14 @@ html {
 }
 
 h1 {
-    color: blue;
+    color: rgb(3, 3, 110);
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+header {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.678), rgb(77, 148, 240));
+    height: 100px;
 }
 
 nav {
@@ -14,7 +21,7 @@ nav {
 
 nav ul li {
     display: inline-block;
-    background-color: rgb(128, 243, 247);
+    background-color: rgb(121, 248, 159);
     width: 150px;
     text-align: center;
 }
@@ -28,7 +35,7 @@ p {
     margin-left: 90px;
 }
 
-img {
+#foto {
     padding-left: 590px;
 }
 
@@ -38,4 +45,9 @@ h2 {
 
 h3 {
     text-align: center;
+}
+
+#mando {
+    margin-left: 630px;
+    margin-top: -40px;
 }
